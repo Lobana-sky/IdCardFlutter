@@ -27,3 +27,8 @@ samples, guidance on mobile development, and a full API reference.
 # run app
 * flutter run
 * for any update press r or R
+
+# some trick
+* stless + tab => create stateless class
+* stful + tab => create stateful class
+
