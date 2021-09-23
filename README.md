@@ -15,3 +15,15 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # IdCardFlutter
+
+# create flutter app with VScode
+
+* install Flutter and Dart extentions in VScode
+* ctrl+shift+p
+* flutter project
+* select your project path
+* main.dart means everything is ok
+
+# run app
+* flutter run
+* for any update press r or R
